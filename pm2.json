@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "thinkjs_init",
+    "script": "production.js",
+    "cwd": "/Users/wangxiping/Documents/github/thinkjs_init",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
